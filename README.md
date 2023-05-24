@@ -1,4 +1,4 @@
-![Banner](/image/github_banner.png)
+![Banner](banner.jpg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=6000&pause=1000&color=F72296&width=435&height=80&lines=I'm+BenQZii)](https://git.io/typing-svg)
 
@@ -7,7 +7,6 @@ Hi.🙋🏼‍♀️I am a full-time Web Developer. I have started Web Developme
 ✍🏼In addition to Web Development, I am interest in Programming, Node.js
 
 ![My Codewarrior Profile Badge](https://www.codewars.com/users/BenQZii/badges/large)
-<iframe src="https://hackerrank-badge.herokuapp.com/benqzii" style="border: 0; height: 230px; width: 240px; overflow:hidden;" scrolling="no" frameBorder="0"></iframe>
 
 ## 💻 My Tech Stack
 #### Web Development
